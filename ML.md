@@ -517,7 +517,7 @@ labels for the input and output columns.
 1.  On the **DASHBOARD** page, click the **Test** link under **Default
     Endpoint**. A dialog will pop up and ask you for the input data for
     the service. These are the same columns that appeared in the
-    original German credit risk dataset.\
+    original German credit risk dataset.
     ![](images/media/image18.png)
 
 2.  Enter a set of data and then click **OK**.

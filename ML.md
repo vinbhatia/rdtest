@@ -23,15 +23,14 @@ assessment solution, we'll follow these steps through a series of tasks:
 
 -   Sign up for Machine Learning Workspace using a Microsoft Account
 
--   [Create a new
-    experiment](https://azure.microsoft.com/en-in/documentation/articles/machine-learning-walkthrough-3-create-new-experiment/)
-    with Saved Dataset
+-   Create a new
+    experiment with Saved Dataset
 
--   [Train and evaluate the
-    models](https://azure.microsoft.com/en-in/documentation/articles/machine-learning-walkthrough-4-train-and-evaluate-models/)
+-   Train and evaluate the
+    models
 
--   [Deploy the web
-    service](https://azure.microsoft.com/en-in/documentation/articles/machine-learning-walkthrough-5-publish-web-service/)
+-   Deploy the web
+    service
 
 
 

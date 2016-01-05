@@ -64,8 +64,7 @@ Estimated time to complete this lab: **1-2 Hours**
 1.  Click on the **+NEW** link at the bottom of the page, then Select
     **Experiment** and click on creating a **Blank Experiment**.
 
-    ![](images/media/image4.png){width="5.833333333333333in"
-    height="2.8605774278215224in"}
+    ![](images/media/image4.png)
 
 2.  Name the Experiment accordingly, the current title shows up as
     ***Experiment created on &lt;Today’s Date&gt;’***. You can edit that
